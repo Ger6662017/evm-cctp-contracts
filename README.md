@@ -1,4 +1,5 @@
-# evm-cctp-contracts
+npm i -g thirdweb
+ evm-cctp-contracts
 
 ## Prerequisites
 
