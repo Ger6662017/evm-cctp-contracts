@@ -1,6 +1,6 @@
 name: Continuous Integration
 on:
-  pull_request:
+  pull_request:eth
   push:
     branches: [master]
 jobs:
